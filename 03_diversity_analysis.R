@@ -1,0 +1,7 @@
+source("plot/draw_taxonomic_compositions.R")
+source("plot/draw_struct_func_relation.R")
+source("plot/draw_ordinations.R")
+source("plot/draw_metacomm_structure.R")
+source("plot/draw_maps.R")
+source("plot/draw_diversity_gradients.R")
+source("plot/draw_distance_decay.R")
